@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    patient1:
+      name: John Doe
+      password: $2b$12$RTEJtO13.tKEtdSYe3ZAbeGw3ED5KOToZSmbnv9dIyOqxUBBY5rO2m
+    doctor1:
+      name: Dr. Smith
+      password: $2b$12$RTEJtO13.tKEtdSYe3ZAbeGw3ED5KOToZSmbnv9dIyOqxUBBY5rO2m
+
+cookie:
+  name: ai_health_cookie
+  key: some_random_signature_key_12345
+  expiry_days: 30
